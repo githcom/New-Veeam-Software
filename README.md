@@ -9,7 +9,6 @@ Please specify user and password in src/test/java/apiEngine/APIServiceBase.java
 
 Technologies and tools:
 
-- [Selenium](https://www.seleniumhq.org/) - to drive the web browser;
 - Java;
 - Junit - to execute tests locally;
 - [Cucumber](https://cucumber.io/docs/guides/overview/) - to run the steps of the Gherkin scenarios;
